@@ -1,8 +1,8 @@
-(currency_exchanging_from) (currency_exchanging_to) (amount)
-
+Example format: (currency_exchanging_from) (currency_exchanging_to) (amount)
 Example of a input: USD EUR 100
 Example of output: 95.3
 
+List of all Currencies and their acronym equivalent
 ADA = Cardano  
 AED = United Arab Emirates Dirham  
 AFN = Afghan Afghani  
