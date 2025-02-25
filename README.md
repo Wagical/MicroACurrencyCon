@@ -1,7 +1,8 @@
 ## MicroACurrencyCon
 
 ### Request Data:
-<p>To request data, an input needs to be written into <b>input.txt</b>.<br>This input must follow a specific format for the microservice to register it as an input.<br> As all currencies have been given acronym equivalents which are listed in [Currency_List](https://github.com/Wagical/MicroACurrencyCon/blob/main/Currency_List.txt)<br> </p>
+To request data, an input needs to be written into <b>input.txt</b>.<br>This input must follow a specific format for the microservice to register it as an input.<br> As all currencies have been given acronym equivalents which are listed in [Currency_List](https://github.com/Wagical/MicroACurrencyCon/blob/main/Currency_List.txt).
+
 
 #### Example call:
 <p>f = open("input.txt", "w")<br>f.write(f"{Origin} {Destination} {Amount}")<br>f.close<br></p>
